@@ -18,4 +18,7 @@ I love cute fluffy baby cows.
 
 ### How to take care of baby cows?
 
-TODO: Add section explaining how to take care of baby cows!
+1. Shelter - Cows need fresh air, but they should never be left without shelter.
+2. Veterinary Care - Like any other animal, they will need regular examinations.
+3. Food - Little cow will need feed hay twice daily.Vitamin, mineral, and salt blocks should also be available at all times.
+4. Water - Your furry pal should always have access to fresh, clean water.
