@@ -1,5 +1,5 @@
 # Mastering git course: homework 1
-
+	
 My solution for the first homework in PV177.
 
 
@@ -11,7 +11,7 @@ I love cute fluffy baby cows.
 
 ### Why should you love fluffy baby cows?
 
-1. They are fluffy
+1.   They are fluffy
 2. They are tiny
 3. They are cows and cows are cute
 
